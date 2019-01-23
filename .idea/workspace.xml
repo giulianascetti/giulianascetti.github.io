@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1762dfe3-81c9-4eaf-9355-a0b6dedb27b7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/headerquadroscritta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/quadro/pres quadro.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/quadro/pres quadro22.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quadro.html" afterPath="$PROJECT_DIR$/quadro.html" />
     </list>
     <ignored path="giulianascetti.github.io.iws" />
@@ -39,8 +40,8 @@
       <file leaf-file-name="quadro.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quadro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="71" column="91" selection-start-line="71" selection-start-column="91" selection-end-line="71" selection-end-column="91" />
+            <state relative-caret-position="352">
+              <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -272,12 +273,12 @@
       <workItem from="1518785584559" duration="684000" />
       <workItem from="1526484388392" duration="46000" />
       <workItem from="1548270828795" duration="1785000" />
-      <workItem from="1548276526822" duration="5709000" />
+      <workItem from="1548276526822" duration="6054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96277000" />
+    <option name="totallyTimeSpent" value="96622000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -667,8 +668,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quadro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="71" column="91" selection-start-line="71" selection-start-column="91" selection-end-line="71" selection-end-column="91" />
+        <state relative-caret-position="352">
+          <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
