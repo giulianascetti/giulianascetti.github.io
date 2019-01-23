@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/quadro.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+              <caret line="42" column="78" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -269,12 +269,12 @@
       <workItem from="1518785584559" duration="684000" />
       <workItem from="1526484388392" duration="46000" />
       <workItem from="1548270828795" duration="1785000" />
-      <workItem from="1548276526822" duration="3856000" />
+      <workItem from="1548276526822" duration="3889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94424000" />
+    <option name="totallyTimeSpent" value="94457000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -665,7 +665,7 @@
     <entry file="file://$PROJECT_DIR$/quadro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="42" column="69" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+          <caret line="42" column="78" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
           <folding />
         </state>
       </provider>
