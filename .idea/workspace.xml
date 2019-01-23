@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1762dfe3-81c9-4eaf-9355-a0b6dedb27b7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header.psd" afterPath="$PROJECT_DIR$/images/header.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/headerquadroscritta.jpg" afterPath="$PROJECT_DIR$/images/headerquadroscritta.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quadro.html" afterPath="$PROJECT_DIR$/quadro.html" />
     </list>
     <ignored path="giulianascetti.github.io.iws" />
@@ -39,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/quadro.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="42" column="78" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
+              <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -269,12 +272,12 @@
       <workItem from="1518785584559" duration="684000" />
       <workItem from="1526484388392" duration="46000" />
       <workItem from="1548270828795" duration="1785000" />
-      <workItem from="1548276526822" duration="3889000" />
+      <workItem from="1548276526822" duration="4250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94457000" />
+    <option name="totallyTimeSpent" value="94818000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -665,7 +668,7 @@
     <entry file="file://$PROJECT_DIR$/quadro.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="42" column="78" selection-start-line="42" selection-start-column="78" selection-end-line="42" selection-end-column="78" />
+          <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
           <folding />
         </state>
       </provider>
