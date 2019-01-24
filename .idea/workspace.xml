@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1762dfe3-81c9-4eaf-9355-a0b6dedb27b7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header.psd" afterPath="$PROJECT_DIR$/images/header.psd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quadro.html" afterPath="$PROJECT_DIR$/quadro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baco.html" afterPath="$PROJECT_DIR$/baco.html" />
     </list>
     <ignored path="giulianascetti.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +23,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="quadro.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="quadro.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quadro.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="69" column="68" selection-start-line="69" selection-start-column="68" selection-end-line="69" selection-end-column="68" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baco.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baco.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="67" column="60" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -62,7 +71,6 @@
         <option value="$PROJECT_DIR$/assets/portfolio/css/main.css" />
         <option value="$PROJECT_DIR$/assets/index/css/main.css" />
         <option value="$PROJECT_DIR$/curriculum.html" />
-        <option value="$PROJECT_DIR$/baco.html" />
         <option value="$PROJECT_DIR$/aircare.html" />
         <option value="$PROJECT_DIR$/bulbox.html" />
         <option value="$PROJECT_DIR$/ttf.html" />
@@ -70,6 +78,7 @@
         <option value="$PROJECT_DIR$/maniglieIMA.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/quadro.html" />
+        <option value="$PROJECT_DIR$/baco.html" />
       </list>
     </option>
   </component>
@@ -262,12 +271,12 @@
       <workItem from="1518785584559" duration="684000" />
       <workItem from="1526484388392" duration="46000" />
       <workItem from="1548270828795" duration="1785000" />
-      <workItem from="1548276526822" duration="11161000" />
+      <workItem from="1548276526822" duration="11466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101729000" />
+    <option name="totallyTimeSpent" value="102034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -604,16 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baco.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bulbox.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1144">
@@ -676,6 +675,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="69" column="68" selection-start-line="69" selection-start-column="68" selection-end-line="69" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="67" column="60" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
