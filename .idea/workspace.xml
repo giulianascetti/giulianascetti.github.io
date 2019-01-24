@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1762dfe3-81c9-4eaf-9355-a0b6dedb27b7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header.psd" afterPath="$PROJECT_DIR$/images/header.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quadro.html" afterPath="$PROJECT_DIR$/quadro.html" />
     </list>
     <ignored path="giulianascetti.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,49 +26,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ttf.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ttf.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="96" column="69" selection-start-line="96" selection-start-column="69" selection-end-line="96" selection-end-column="69" />
-              <folding>
-                <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="viner.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/viner.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maniglieIMA.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maniglieIMA.html">
+      <file leaf-file-name="quadro.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quadro.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="61" column="198" selection-start-line="61" selection-start-column="198" selection-end-line="61" selection-end-column="198" />
+              <caret line="69" column="68" selection-start-line="69" selection-start-column="68" selection-end-line="69" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/portfolio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="139" column="16" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,7 +62,6 @@
         <option value="$PROJECT_DIR$/assets/portfolio/css/main.css" />
         <option value="$PROJECT_DIR$/assets/index/css/main.css" />
         <option value="$PROJECT_DIR$/curriculum.html" />
-        <option value="$PROJECT_DIR$/quadro.html" />
         <option value="$PROJECT_DIR$/baco.html" />
         <option value="$PROJECT_DIR$/aircare.html" />
         <option value="$PROJECT_DIR$/bulbox.html" />
@@ -103,6 +69,7 @@
         <option value="$PROJECT_DIR$/viner.html" />
         <option value="$PROJECT_DIR$/maniglieIMA.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/quadro.html" />
       </list>
     </option>
   </component>
@@ -295,12 +262,12 @@
       <workItem from="1518785584559" duration="684000" />
       <workItem from="1526484388392" duration="46000" />
       <workItem from="1548270828795" duration="1785000" />
-      <workItem from="1548276526822" duration="8973000" />
+      <workItem from="1548276526822" duration="11161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99541000" />
+    <option name="totallyTimeSpent" value="101729000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -611,14 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="63" column="100" selection-start-line="63" selection-start-column="100" selection-end-line="63" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/curriculum.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -655,16 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quadro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bulbox.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1144">
@@ -682,6 +631,14 @@
           <folding>
             <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -708,9 +665,19 @@
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="139" column="16" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
+          <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quadro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="69" column="68" selection-start-line="69" selection-start-column="68" selection-end-line="69" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
