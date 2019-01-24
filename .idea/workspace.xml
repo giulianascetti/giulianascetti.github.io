@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1762dfe3-81c9-4eaf-9355-a0b6dedb27b7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bulbox.html" afterPath="$PROJECT_DIR$/bulbox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ttf.html" afterPath="$PROJECT_DIR$/ttf.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aircare.html" afterPath="$PROJECT_DIR$/aircare.html" />
     </list>
     <ignored path="giulianascetti.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,6 +47,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="aircare.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aircare.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="73" column="60" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="bulbox.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bulbox.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ttf.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ttf.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ttf.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="353">
@@ -68,16 +79,6 @@
               <folding>
                 <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aspirapolvere.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aspirapolvere.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="75" column="273" selection-start-line="75" selection-start-column="273" selection-end-line="75" selection-end-column="273" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -106,7 +107,6 @@
         <option value="$PROJECT_DIR$/assets/portfolio/css/main.css" />
         <option value="$PROJECT_DIR$/assets/index/css/main.css" />
         <option value="$PROJECT_DIR$/curriculum.html" />
-        <option value="$PROJECT_DIR$/aircare.html" />
         <option value="$PROJECT_DIR$/viner.html" />
         <option value="$PROJECT_DIR$/maniglieIMA.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
@@ -114,6 +114,7 @@
         <option value="$PROJECT_DIR$/baco.html" />
         <option value="$PROJECT_DIR$/bulbox.html" />
         <option value="$PROJECT_DIR$/ttf.html" />
+        <option value="$PROJECT_DIR$/aircare.html" />
       </list>
     </option>
   </component>
@@ -306,12 +307,12 @@
       <workItem from="1518785584559" duration="684000" />
       <workItem from="1526484388392" duration="46000" />
       <workItem from="1548270828795" duration="1785000" />
-      <workItem from="1548276526822" duration="11868000" />
+      <workItem from="1548276526822" duration="12283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102436000" />
+    <option name="totallyTimeSpent" value="102851000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -631,16 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aircare.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1012">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -721,6 +712,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="65" column="60" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aircare.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="73" column="60" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#header#0;n#article#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
